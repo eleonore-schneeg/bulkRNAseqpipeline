@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#added to git
+
 # Mini description: Processing the raw sequence data from the initial QC to genomic mapping and post-alignment QC [raw_fastq  > QC > mapping > indexing > QC]
 #########################################################
 # QC is done with fastqc, SortMeRna
